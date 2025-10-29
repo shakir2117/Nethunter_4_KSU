@@ -23,7 +23,11 @@ Flashable Kali NetHunter module for rooted Android with Magisk or KernelSU Next.
 
 ### Step 1: Download the Original NetHunter Module
 
-1. Download the official Kali NetHunter module ZIP from the [NetHunter Store](https://store.nethunter.com/) or GitHub releases (look for the latest `kali-nethunter-*-arm64-*.zip`).
+1. Download the official Kali NetHunter module ZIP from the [NetHunter Images](https://kali.download/nethunter-images/current/) page. Choose the latest version that matches your device's architecture:
+    - For ARM64 devices: Look for `kali-nethunter-*-arm64-*.zip`.
+    - For ARM devices: Look for `kali-nethunter-*-armhf-*.zip`.
+    - For x86_64 devices: Look for `kali-nethunter-*-amd64-*.zip`.
+    - For x86 devices: Look for `kali-nethunter-*-i386-*.zip`.
 
 ### Step 2: Extract Required Files
 
